@@ -20,7 +20,7 @@
           <mxGeometry x="240" y="315.5" width="91" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D3t5GSLkGJJTMsDcqO09-8" value="" style="shape=mxgraph.cisco.computers_and_peripherals.tablet;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="246.5" y="641.5" width="91" height="50" as="geometry" />
+          <mxGeometry x="253" y="650" width="91" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D3t5GSLkGJJTMsDcqO09-9" value="" style="shape=mxgraph.cisco.computers_and_peripherals.tablet;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="494" y="463.5" width="91" height="50" as="geometry" />
@@ -49,9 +49,6 @@
         <mxCell id="D3t5GSLkGJJTMsDcqO09-19" value="" style="shape=mxgraph.cisco.misc.access_point;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="248" y="181" width="75" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="D3t5GSLkGJJTMsDcqO09-20" value="" style="shape=mxgraph.cisco.routers.router;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="672" y="730" width="78" height="53" as="geometry" />
-        </mxCell>
         <mxCell id="D3t5GSLkGJJTMsDcqO09-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=3;dashed=1;" edge="1" parent="1" source="D3t5GSLkGJJTMsDcqO09-21" target="D3t5GSLkGJJTMsDcqO09-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -59,7 +56,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D3t5GSLkGJJTMsDcqO09-21" value="" style="shape=mxgraph.cisco.routers.wireless_router;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="253" y="450" width="78" height="77" as="geometry" />
+          <mxGeometry x="259.5" y="513.5" width="78" height="77" as="geometry" />
         </mxCell>
         <mxCell id="D3t5GSLkGJJTMsDcqO09-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;endArrow=none;endFill=0;strokeColor=#0000FF;" edge="1" parent="1" source="D3t5GSLkGJJTMsDcqO09-22" target="D3t5GSLkGJJTMsDcqO09-42">
           <mxGeometry relative="1" as="geometry" />
@@ -90,6 +87,18 @@
         </mxCell>
         <mxCell id="D3t5GSLkGJJTMsDcqO09-43" value="" style="shape=mxgraph.cisco.computers_and_peripherals.laptop;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1040" y="484.5" width="90" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="D3t5GSLkGJJTMsDcqO09-47" value="Access point" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="222" y="130" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D3t5GSLkGJJTMsDcqO09-48" value="Hub" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="770" y="123" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D3t5GSLkGJJTMsDcqO09-51" value="Wireless rounter&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="215" y="473" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D3t5GSLkGJJTMsDcqO09-52" value="Workgrop switches&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="805" y="438" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
