@@ -97,8 +97,8 @@
         <mxCell id="D3t5GSLkGJJTMsDcqO09-51" value="Wireless rounter&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="215" y="473" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="D3t5GSLkGJJTMsDcqO09-52" value="Workgrop switches&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="805" y="438" width="200" height="40" as="geometry" />
+        <mxCell id="D3t5GSLkGJJTMsDcqO09-54" value="Workgroup switch" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="820" y="438" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
