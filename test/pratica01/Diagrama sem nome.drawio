@@ -109,7 +109,7 @@
             <mxPoint x="430" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D-y9V79Wz05ahPcceiWv-56" value="Servidpr&amp;nbsp; 1&lt;div style=&quot;font-size: 16px;&quot;&gt;IP: 192.168.1.1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="D-y9V79Wz05ahPcceiWv-56" value="Servidor&amp;nbsp; 1&lt;div style=&quot;font-size: 16px;&quot;&gt;IP: 192.168.1.1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="365" y="283" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D-y9V79Wz05ahPcceiWv-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;endArrow=none;endFill=0;" edge="1" parent="1" source="D3t5GSLkGJJTMsDcqO09-10" target="D-y9V79Wz05ahPcceiWv-59">
